@@ -15,3 +15,6 @@ Soy un desarrollador apasionado por aprender y mejorar mis habilidades, especial
 
 ## Áreas de interés
 - Estoy interesado en proyectos donde pueda seguir aprendiendo sobre **Angular** y **bases de datos**. Si tienes alguna oportunidad en estas áreas, ¡me encantaría colaborar!
+- 
+## Conéctate conmigo
+- [LinkedIn](https://www.linkedin.com/in/nicolás-rivera-páez-48286b304)
